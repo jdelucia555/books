@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f8a3713-d699-4fe3-899f-67bb8e702725</dc:identifier>
+        <dc:title>Перекресток Судеб</dc:title>
+        <dc:creator opf:file-as="Ренни, Гордон" opf:role="aut">Гордон Ренни</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-15T00:00:00+00:00</dc:date>
+        <dc:description>Жизнь человека в сорок первом тысячелетии — это война, которой не видно ни конца, ни края. Сражаться приходится всегда и со всеми — с чуждыми расами, силами Хаоса, межзвездными хищниками. Не редки и схватки с представителями своего вида — мутантами, еретиками, предателями. Экипаж крейсера «Махариус» побывал не в одной переделке, сражался против всевозможных врагов, коими кишмя кишит Галактика, но вряд ли капитан Леотен Семпер мог представить себе ситуацию, когда придется объединить силы с недавними противниками — эльдарами — в борьбе, которую не обойдут вниманием и боги. Но даже богам неведомо, что таят в себе хитросплетения Перекрестка Судеб.</dc:description>
+        <dc:publisher>ИД«Азбука-классика»</dc:publisher>
+        <dc:language>rus</dc:language>
+        <dc:subject>sf_action</dc:subject>
+        <meta content="{&quot;Гордон Ренни&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Лорд Солар Махариус" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2021-05-27T11:17:16.918000+00:00" name="calibre:timestamp"/>
+        <meta content="Перекресток Судеб" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

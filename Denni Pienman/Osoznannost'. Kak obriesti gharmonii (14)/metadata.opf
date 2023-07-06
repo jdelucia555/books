@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19d2bb31-1537-4ac3-afd4-2c52418ff6ff</dc:identifier>
+        <dc:title>Осознанность. Как обрести гармонию в нашем безумном мире</dc:title>
+        <dc:creator opf:file-as="Пенман, Дэнни &amp; Уильямс, Марк" opf:role="aut">Дэнни Пенман</dc:creator>
+        <dc:creator opf:file-as="Пенман, Дэнни &amp; Уильямс, Марк" opf:role="aut">Марк Уильямс</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-14T22:00:00+00:00</dc:date>
+        <dc:description>Перед вами книга об осознанной медитации, на которой основана терапия, разработанная автором и его коллегами из Оксфордского университета. Эта методика не только способствует излечению и предупреждению депрессий, но и помогает справиться с вызовами современного ритма жизни. Уделяя осознанной медитации 10–20 минут в день, вы научитесь останавливать поток мыслей и эмоций, чтобы сосредоточиться на том, что действительно происходит в вашей жизни. Методика осознанной медитации рекомендована британским министерством здравоохранения. На русском языке публикуется впервые.</dc:description>
+        <dc:publisher>Манн, Иванов и Фербер</dc:publisher>
+        <dc:language>rus</dc:language>
+        <meta content="{&quot;Марк Уильямс&quot;: &quot;&quot;, &quot;Дэнни Пенман&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2021-12-25T09:46:40.753000+00:00" name="calibre:timestamp"/>
+        <meta content="Осознанность. Как обрести гармонию в нашем безумном мире" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

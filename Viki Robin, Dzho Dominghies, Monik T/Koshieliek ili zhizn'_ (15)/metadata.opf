@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9b41bd1-20d7-44dc-8ef7-698c9768715e</dc:identifier>
+        <dc:title>Кошелек или жизнь?</dc:title>
+        <dc:creator opf:file-as="Вики Робин, Джо Домингес, Моник Тилфорд" opf:role="aut">Вики Робин, Джо Домингес, Моник Тилфорд</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-19T21:00:00+00:00</dc:date>
+        <dc:description>Обретение финансовой независимости — мечта многих людей. Для этого нужно научиться осознанно использовать и контролировать деньги, а не жить ради них. Изменив свое отношение к деньгам в результате следования рекомендациям, описанным в этой книге, вы достигнете нового уровня осознания всех финансовых вопросов, а также приобретете более высокие компетенции и почувствуете себя гораздо комфортнее. Книга будет полезной для всех, кто хочет контролировать свои финансы, а не жить ради денег.</dc:description>
+        <dc:publisher>Манн, Иванов и Фербер</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9785000577370</dc:identifier>
+        <dc:language>rus</dc:language>
+        <meta content="{&quot;Вики Робин, Джо Домингес, Моник Тилфорд&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2021-12-25T09:46:55.220000+00:00" name="calibre:timestamp"/>
+        <meta content="Кошелек или жизнь?" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37fd8803-4718-4f19-bba5-7ecb60a2c22d</dc:identifier>
+        <dc:title>Test-Case-Format-with-Example</dc:title>
+        <dc:creator opf:file-as="Kaushal, Priya (LNG-IND)" opf:role="aut">Kaushal, Priya (LNG-IND)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kaushal, Priya (LNG-IND)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2022-11-19T12:47:50.256000+00:00" name="calibre:timestamp"/>
+        <meta content="Test-Case-Format-with-Example" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

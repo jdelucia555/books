@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e7a73ee-f745-4460-8286-2cbcb0e21245</dc:identifier>
+        <dc:title>Modalogy</dc:title>
+        <dc:creator opf:file-as="Brent, Jeff" opf:role="aut">Jeff Brent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-11T21:00:00+00:00</dc:date>
+        <dc:description>(Jazz Instruction). Primarily a music theory reference, Modalogy presents a unique perspective on the origins, interlocking aspects, and usage of the most common scales and modes in occidental music. Anyone wishing to seriously explore the realms of scales, modes, and their real-world functions will find the most important issues dealt with in meticulous detail within these pages. Logical illustrations accompany in-depth examinations of chordal harmonies, cadential motions, and progressions. This book is perfect for both music students and teachers, as either a course in itself or to augment any theory curriculum.</dc:description>
+        <dc:publisher>Hal Leonard</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781476841304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jeff Brent&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2022-01-01T21:30:51.934000+00:00" name="calibre:timestamp"/>
+        <meta content="Modalogy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>
